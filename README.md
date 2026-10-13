@@ -88,4 +88,4 @@ All entries live in [`data/cfps.csv`](data/cfps.csv) with these columns:
 
 ## License
 
-Content is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Each call for papers remains the property of its organizers; this repository only links to official sources.
+Content is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Each call for papers remains the property of its organizers; this repository only links to official sources.
